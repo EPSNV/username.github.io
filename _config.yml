@@ -1,10 +1,10 @@
 # Site settings
-title:       "Jekyll Bootstrap 4 with Docker"
-header_title: "Jekyll Bootstrap 4 with Docker"
-email:       your@ema.il
-author:      Your Name
-description: "Jekyll static blog boilerplate with Bootstrap 4 and Docker"
-baseurl:     "" #/jekyll-bootstrap4-docker
+title:       "EPS BLOG"
+header_title: "EPS BLOG"
+email:       epsnv@yandex.ru
+author:      EPS
+description: "EPS BLOG"
+baseurl:     ""
 url:         "https://hexlet-boilerplates.github.io"
 date_format: "%-d.%m.%Y"
 
@@ -24,16 +24,16 @@ ajaxify_contact_form: true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: "disqus_xxx"
+disqus_shortname: ""
 
 # Social icons
-github_username: hexlet
+github_username: EPSNV
 bitbucket_username:
 stackoverflow_id:
-twitter_username: hexlet
+twitter_username: 
 google_plus_id:
 linkedin_username:
-facebook_username: hexlet
+facebook_username: 
 angellist_username:
 medium_id:
 bitcoin_url:
