@@ -5,20 +5,20 @@ email:       epsnv@yandex.ru
 author:      EPS
 description: "EPS BLOG"
 baseurl:     ""
-url:         "https://hexlet-boilerplates.github.io"
+url:         "https://epsnv.github.io/"
 date_format: "%-d.%m.%Y"
 
 # Google services
-google_analytics: "UA-1360700-62"
+google_analytics: ""
 google_verification: ""
 
 # Facebook
-facebook_app_id: "1414002802233483"
+facebook_app_id: ""
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
-show_post_footer:    true
+show_post_footer:    false
 show_social_icons:    true
 ajaxify_contact_form: true
 
@@ -30,10 +30,10 @@ disqus_shortname: ""
 github_username: EPSNV
 bitbucket_username:
 stackoverflow_id:
-twitter_username: 
+twitter_username: @Eps_nv
 google_plus_id:
-linkedin_username:
-facebook_username: 
+linkedin_username: epsnv
+facebook_username: yuriy.chernishev 
 angellist_username:
 medium_id:
 bitcoin_url:
