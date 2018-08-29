@@ -1,5 +1,10 @@
 JEKYLL_VERSION=3.6
 
+post:
+	git add .
+	git commit -m 'add post'
+	git push
+
 serve:
 	docker run --rm \
 	  --volume=$(PWD):/srv/jekyll \
