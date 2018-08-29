@@ -1,5 +1,7 @@
 JEKYLL_VERSION=3.6
 
+m='add post'
+
 post:
 	git add .
 	git commit -m '$(m)'
