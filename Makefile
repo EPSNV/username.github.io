@@ -1,6 +1,6 @@
 JEKYLL_VERSION=3.6
 
-m='add post'
+m=add post
 
 post:
 	git add .
