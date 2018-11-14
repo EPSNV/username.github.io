@@ -8,13 +8,6 @@
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
-      <li class="nav-item">
-        <a class="nav-link" href="/about"><span class="mr-2 fa fa-user"></span>About</a>
-      </li>
-      <li class="nav-item mr-2">
-        <a class="nav-link" href="/contacts"><span class="mr-2 fa fa-envelope-o"></span>Contacts</a>
-      </li>
-      
       {% if site.bitbucket_username %}
         <li class="nav-item">
           <a class="nav-link" href="https://bitbucket.org/{{ site.bitbucket_username }}"><span class="mr-1 fa fa-bitbucket"></span></a>
@@ -69,10 +62,6 @@
           <a class="nav-link" href="https://github.com/{{ site.github_username }}"><span class="mr-1 fa fa-github"></span></a>
         </li>
       {% endif %}
-
-      <li class="nav-item">
-        <a class="nav-link" href="{{ "/feed.xml" | prepend: site.baseurl }}"><span class="mr-1 fa fa-rss"></span></a>
-      </li>
 
     </ul>
   </div>
